@@ -4,6 +4,6 @@ namespace Configuration
 {
     public class Url
     {
-        public string mainPageUrl = "https://staging.oncredit.vn/";
+        public string homePageUrl = "https://staging.oncredit.vn/";
     }
 }
